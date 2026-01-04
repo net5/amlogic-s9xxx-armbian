@@ -255,7 +255,7 @@ on:
         type: choice
         options:
           - ophub
-          - angel
+          - benny
 
 env:
   TZ: Etc/UTC

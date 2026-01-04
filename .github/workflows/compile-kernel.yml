@@ -80,7 +80,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -Benny
 
 env:
   TZ: Etc/UTC

@@ -111,8 +111,10 @@ on:
           - lz-d3568
           - lz-d3588
           - lz-k3568
+          - lzk4
           - md1000
           - mrkaio-m68s
+          - mytv-net1
           - nanopc-t4
           - nanopc-t6
           - nanopi-m5
